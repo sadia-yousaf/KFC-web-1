@@ -1,0 +1,19 @@
+.sales h1{
+    color: white;
+    font-weight: 600;
+    font-size: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+}
+.cart1{
+background-color: rgb(49, 45, 45);
+width: 30%;
+height: 50%;
+border: 2px solid red;
+}
+.cart1 img{
+    width: 100%;
+}
+.cart1 h3{
+    color: white;
+}
